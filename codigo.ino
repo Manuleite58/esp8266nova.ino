@@ -7,7 +7,7 @@
 
 //wifi Mobil
 #define MAX_INTENTOS 50
-#define WIFI_SSID "WiFi leite"
+#define WIFI_SSID "WiFi.leite"
 #define WIFI_PASS "pass"
 
 
